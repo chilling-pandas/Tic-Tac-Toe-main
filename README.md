@@ -36,11 +36,3 @@ react-tic-tac-toe/
 
 ## 🛠️ How to Run Locally
 
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/Debarghya-Das/react-tic-tac-toe.git
-cd react-tic-tac-toe
-
-🙌 Author
-Debarghya Das
